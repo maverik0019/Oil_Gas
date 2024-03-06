@@ -1,3 +1,7 @@
+# This project was one of many that I did during my learning period following my YouTubers. In this case the creator was "Victor Etim" and I used this data set to practice and polish my skills.
+
+
+
 # Oil-and-Gas-Emissions-Tracking
 
 ## Project Statement
