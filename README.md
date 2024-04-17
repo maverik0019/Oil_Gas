@@ -13,6 +13,8 @@
 
 - This dataset is essential for anyone who wants to get informed about their own environmental footprint or conduct research on international development trends.
 
+[Oil and Gas Analysis Notebook](https://github.com/maverik0019/Oil_Gas/blob/main/Oil_Gas.ipynb)
+
 
 ## Project Dictionary
 df1: Mt CO2
